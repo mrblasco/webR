@@ -1,0 +1,78 @@
+Andrea Blasco {.description}
+=============
+
+Andrea Blasco is a research fellow at [Harvard University Institute for Quantitative Social Science (IQSS)][iqss] and member of the [Crowd Innovation Laboratory (CIL)][cil] at Harvard University. Blasco is an applied economist focusing on intellectual property rights, innovation contests, crowdsourcing, and media economics. For more information, see his curriculum vitae.
+
+[iqss]: http://www.iq.harvard.edu
+[cil]: http://projects.iq.harvard.edu/crowdinnovationlab
+
+<br>
+<br>
+
+Research {.tabset .tabset-fade}
+---------------
+
+Here you can find research papers and presentations.
+
+### Papers
+
+- Blasco, A., Jung, O. S., Lakhani, K. R., & Menietti, M. (2016). [Motivating Effort In Contributing to Public Goods Inside Organizations: Field Experimental Evidence][pgood] (No. w22189). National Bureau of Economic Research.
+
+- Blasco, A., Pin, P., & Sobbrio, F. (2016). [Paying positive to go negative: Advertisers׳ competition and media reports.][payingpos] European Economic Review, 83, 243-261.
+
+- Blasco, A. (2015). [Strategic Collaboration in Dynamic R&D Competitions.][strategic] Institute for Quantitative Social Sciences.
+
+- Blasco, A., Boudreau, K. J., Lakhani, K. R., Menietti, M., & Riedl, C. (2013). [Do Crowds have the Wisdom to Self-Organize?.][selforg]
+
+- Blasco, A., & Sobbrio, F. (2012). [Competition and commercial media bias.][mediabias] Telecommunications Policy, 36(5), 434-447.
+
+- Blasco, A., & Pin, P. (2010). [Simulations on Correlated Behavior and Social Learning.][simulations] In Progress in Artificial Economics (pp. 89-100). Springer Berlin Heidelberg.
+
+[payingpos]: Papers/1-s2.0-S0014292116300058-main.pdf
+[mediabias]: Papers/1-s2.0-S030859611100214X-main.pdf
+[pgood]: Papers/blasco_-_motivating_effort_etc.pdf
+[simulations]: Papers/10.1.1.723.6297.pdf
+[strategic]: Papers/Blasco_patents.pdf
+[selforg]: Papers/0b84516b.wise20130_submission_133.pdf
+
+### Presentations
+
+* December 8, 2016. [IGL Winter Research Meeting][igl], Harvard Business School, Cambridge US
+
+* September 16, 2016. [Advances with Field Experiments][afe2016], The University of Chicago, Chicago, US
+
+* August 4, 2016. [Open and User Innovation Conference][oui2016], Harvard Business School, Cambridge, US
+
+* May 4, 2016. [Bay Area Behavioral and Experimental Economics Workshop][babeew2016], University of California, Berkeley, US
+
+[oui2016]: http://www.hbs.edu/faculty/conferences/2016-oui/Pages/default.aspx
+[babeew2016]: xxx
+[afe2016]: https://economics.uchicago.edu/afe2016
+[igl]: http://innovationgrowthlab.org
+
+### Research interests
+
+- Methods
+    - Design of Experiments
+    - Applied econometrics
+
+- Theory
+    - Contract theory
+    - Innovation Contest
+    - Media economics
+    - Social network
+    - Learning
+
+- Markets
+    - Online Labor Markets (Odesk, Amazon Mechanical Turk)
+    - Crowdsourcing platforms (Topcoder, Innocentive)
+    - News media (online and offline)
+
+### Contacts
+
+Harvard University, <br>
+IQSS Knafel Building, <br>
+1237 Cambridge Street, <br>
+Cambridge US <br>
+Email: ablasco@fas.harvard.edu
+

@@ -1,0 +1,38 @@
+Bio {.cv}
+==========
+
+Andrea Blasco received a B.A. from the [University of Naples "Federico II"][unina] in Italy, a M.A. in financial economics from the [Toulouse School of Economics][tsc] in France, and a Ph.D. from the [University of Bologna][unibo].
+
+[unina]: https://en.wikipedia.org/wiki/University_of_Naples_Federico_II
+[unibo]: https://en.wikipedia.org/wiki/University_of_Bologna
+[tsc]: https://en.wikipedia.org/wiki/Toulouse_School_of_Economics
+
+Curriculum vitae {.cv}
+======================
+
+Current position 
+-------------------
+
+Research fellow at Institute for Quantitive Social Sciences at Harvard University (Faculty of Arts and Sciences).
+
+Education
+-----------
+
+- University of Bologna, Italy: Ph.D., Economics, June 2011. Ph.D. Thesis: Essays on Industrial Organization. Advisor: Vincenzo Denicolò.
+
+- Toulouse School of Economics, France: Master of Arts, July 2008. M.A. Project: Common Agency. Advisor: David Martimort
+
+- University of Naples "Federico II", Italy: B.A., Economics, July 2006.
+B.A. Project: Corporate Bankruptcy in Italy. Advisor: Marco Pagano
+
+Teaching experience
+---------------------
+
+- Public economics, applied microeconomics (2008-2011)
+- Microeconomics (2005-2006)
+
+Other experience
+--------------------
+
+Postdoctoral fellow at London Business School, London, UK. Advisor: Kevin J. Boudreau
+

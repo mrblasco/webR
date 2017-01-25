@@ -1,0 +1,19 @@
+name: "Andrea Blasco"
+exclude: ['make_website', 'update_website']
+theme: cosmos
+navbar:
+  title: "Andrea Blasco"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Bio & CV"
+      href: bio.html
+    - text: "Research"
+      href: 'index.html#research'
+output:
+  html_document:
+    theme: cosmo # simplex, yeti
+    highlight: textmate
+    css: styles.css
+    include:
+      after_body: _footer.html
