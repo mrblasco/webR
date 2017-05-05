@@ -1,12 +1,11 @@
 Andrea Blasco {.description}
 =============
 
-Andrea Blasco is a research fellow at [Harvard University Institute for Quantitative Social Science (IQSS)][iqss] and member of the [Crowd Innovation Laboratory (CIL)][cil] at Harvard University. Blasco is an applied economist focusing on intellectual property rights, innovation contests, crowdsourcing, and media economics. For more information, see his curriculum vitae.
+Andrea Blasco is an Associate Research Fellow at [Harvard University Institute for Quantitative Social Science (IQSS)][iqss] and member of the [Crowd Innovation Laboratory (CIL)][cil] at Harvard University. Blasco is an applied economist focusing on intellectual property rights, innovation contests, crowdsourcing, and media economics. For more information, see his curriculum vitae.
 
 [iqss]: http://www.iq.harvard.edu
 [cil]: http://projects.iq.harvard.edu/crowdinnovationlab
 
-<br>
 <br>
 
 Research {.tabset .tabset-fade}
@@ -16,7 +15,7 @@ Here you can find research papers and presentations.
 
 ### Papers
 
-- Blasco, A., Jung, O. S., Lakhani, K. R., & Menietti, M. (2016). [Motivating Effort In Contributing to Public Goods Inside Organizations: Field Experimental Evidence][pgood] (No. w22189). National Bureau of Economic Research.
+- Blasco, A., Jung, O. S., Lakhani, K. R., & Menietti, M. (2016). [Incentives for Public Goods Inside Organizations: Field Experimental Evidence][pgood new version]; (old version: No. w22189. National Bureau of Economic Research).
 
 - Blasco, A., Pin, P., & Sobbrio, F. (2016). [Paying positive to go negative: Advertisers׳ competition and media reports.][payingpos] European Economic Review, 83, 243-261.
 
@@ -31,6 +30,7 @@ Here you can find research papers and presentations.
 [payingpos]: Papers/1-s2.0-S0014292116300058-main.pdf
 [mediabias]: Papers/1-s2.0-S030859611100214X-main.pdf
 [pgood]: Papers/blasco_-_motivating_effort_etc.pdf
+[pgood new version]: Papers/pgood.pdf
 [simulations]: Papers/10.1.1.723.6297.pdf
 [strategic]: Papers/Blasco_patents.pdf
 [selforg]: Papers/0b84516b.wise20130_submission_133.pdf
